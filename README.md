@@ -20,6 +20,8 @@ current events and social media trends, focusing their platforms to promote upco
 During quarantine, museums are applying art to current social activism, integrating art into community, and transmitting art out of the gallery into everyday life. The most popular tweets include responses to current events, solidarity with communities, and conversations with other museums. Surprisingly, smaller museums experience the most user engagement. These museums are interacting directly with their surrounding communities, & their popular tweets actively participate in current events (local protests, organizations, etc.) in contrast to large institutions who post more generalized content. The results of this study offer helpful ways museums can diversify their content and broaden their online outreach & accessibility in the future. 
 (Image credit: Emmanuelle Walker)
 
+![museum](images/AKAZAWA_Assignment4_2020-7-2.pdf)
+
 # DH 101 Group Project Presentation:Inclusivity in the Digital Humanities
 ## Chloe Akazawa and Anusha Subramanian Summer 2020
 ![img](images/nickslater.jpg)
